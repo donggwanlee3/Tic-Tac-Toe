@@ -25,7 +25,7 @@ Welcome to my personal project showcasing the classic Tic-Tac-Toe game built wit
 
 ## Demo
 
-Check out the live demo of the Tic-Tac-Toe game [here]((https://tic-tac-toe-ochre-mu.vercel.app/)). 
+Check out the live demo of the Tic-Tac-Toe game here: https://tic-tac-toe-ochre-mu.vercel.app 
 
 
 ## Usage
