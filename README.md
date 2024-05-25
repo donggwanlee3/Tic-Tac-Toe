@@ -1,7 +1,3 @@
-Here's a README tailored for showcasing your Tic-Tac-Toe React project as a personal project:
-
----
-
 # Tic-Tac-Toe Game in React
 
 Welcome to my personal project showcasing the classic Tic-Tac-Toe game built with React. This project highlights my understanding and application of fundamental React concepts including components, props, state management, and event handling. It also includes advanced features like time travel and move sorting to enhance the gameplay experience.
@@ -29,7 +25,7 @@ Welcome to my personal project showcasing the classic Tic-Tac-Toe game built wit
 
 ## Demo
 
-Check out the live demo of the Tic-Tac-Toe game [here](#). *[(Add your deployed URL here)](https://tic-tac-toe-ochre-mu.vercel.app/)*
+Check out the live demo of the Tic-Tac-Toe game [here]((https://tic-tac-toe-ochre-mu.vercel.app/)). 
 
 
 ## Usage
@@ -78,6 +74,3 @@ function calculateWinner(squares) {
 - **Enhanced Styling:** Improve the overall design and user interface.
 - **Mobile Responsiveness:** Ensure the game is fully responsive and playable on mobile devices.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
